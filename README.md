@@ -1,6 +1,10 @@
 ### Hi there 👋, i'm durotimi johnson. A Mobile Application Developer.
 
-
+### Contact me📱
+<a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a>
+  <a href="https://www.linkedin.com/in/durotimi-johnson-4b31b7183/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a> 
+<a href="https://www.instagram.com/iam_mickj/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"><a>
+  
 <img src ="https://github-readme-stats.vercel.app/api?username=D-Mick&show_icons=true&theme=tokyonight"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Mick&layout=compact">
 <br>
 <br>
