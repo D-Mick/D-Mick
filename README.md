@@ -2,8 +2,6 @@
 
 
 <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif">
-🌍  I'm based in Lagos, Nigeria
-🧠  I'm learning IOS development
 
 
 ### Contact me📱
