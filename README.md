@@ -1,7 +1,9 @@
-### Hi there 👋, i'm durotimi johnson. A Mobile Application Developer.
+### Hi there 👋, i'm durotimi johnson. A Mobile Engineer.
 
 
 <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif">
+🌍  I'm based in Lagos, Nigeria
+🧠  I'm learning IOS development
 
 
 ### Contact me📱
